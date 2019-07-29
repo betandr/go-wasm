@@ -1,2 +1,3 @@
-wasm_exec.js
-main.wasm
+html/wasm_exec.js
+html/main.wasm
+.DS_Store
